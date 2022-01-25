@@ -13,12 +13,12 @@ Play List - Music Sheet
 - 3th : [ Go The Distance : Disney's Hercules OST                                                     ][PlayList-22-01-3]
 <hr>
 
-## 이벤트 콘서트 in 2022.03 
+## 이벤트 콘서트 in 2022.03
 앙상블 4중주 연주자
-- Violin I :  [Ji-Young, Hong  ][Quartet_Vn1]
+- Violin I  : [Ji-Young, Hong  ][Quartet_Vn1]
 - Violin II : [Jin-Soo, Kim       ][Quartet_Vn2]
-- Cello :     [Yoon-Ju            ][Quartet_Vc] 
-- Flute :      ]Ye-Ryun, Moon ][Quartet_Fl] 
+- Cello     : [Yoon-Ju            ][Quartet_Vc]
+- Flute     : [Ye-Ryun, Moon ][Quartet_Fl]
 
 <table border=0 width='960px'>
   <tr>
@@ -30,7 +30,7 @@ Play List - Music Sheet
     </td>
   </tr>
   <tr>
-    <td> 
+    <td>
       <a href="https://youtu.be/oEzeAli7J6o">HARRY POTTER OST hedwig's theme 현악4중주 커버</a>
     </td>
     <td>
@@ -39,7 +39,7 @@ Play List - Music Sheet
   </tr>
 </table>
 
-### 해리포터 & 궁OST Medley  악보 
+### 해리포터 & 궁OST Medley  악보
 - [4중주 악보 - ver1][Quartet_v1]
 - [4중주 악보 - ver2][Quartet_v2]
 - [4중주 악보 - ver3][Quartet_v3]
@@ -55,5 +55,5 @@ Play List - Music Sheet
 
 [Quartet_Vn1]: ./   "Quartet_Vn1"
 [Quartet_Vn2]: ./   "Quartet_Vn2"
-[Quartet_Vc]  : ./   "Quartet_Vc"
-[Quartet_Fl]   : ./   "Quartet_Fl"
+[Quartet_Vc  ]: ./   "Quartet_Vc"
+[Quartet_Fl   ]: ./   "Quartet_Fl"
