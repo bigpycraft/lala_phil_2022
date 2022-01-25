@@ -13,17 +13,12 @@ Play List - Music Sheet
 - 3th : [ Go The Distance : Disney's Hercules OST                                                     ][PlayList-22-01-3]
 <hr>
 
-[PlayList-22-01-1]: ./playlist/sm22_01_nutcracker_overture                      "Go PlayList-22-01-1"
-[PlayList-22-01-2]: ./playlist/sm22_01_radetzky_march                            "Go PlayList-22-01-2"
-[PlayList-22-01-3]: ./playlist/sm22_01_go_the_distance                           "Go PlayList-22-01-3"
-
-
 ## 이벤트 콘서트 in 2022.03 
 앙상블 4중주 연주자
-      - Violin I :  Ji-Young, Hong
-      - Violin II : Jin-Soo, Kim
-      - Cello : Yoon-Ju
-      - Flute : Ye-Ryun, Moon
+- Violin I :  Ji-Young, Hong
+- Violin II : Jin-Soo, Kim
+- Cello : Yoon-Ju
+- Flute : Ye-Ryun, Moon
 
 <table border=0 width='960px'>
   <tr>
@@ -44,11 +39,16 @@ Play List - Music Sheet
   </tr>
 </table>
 
-해리포터 & 궁OST Medley  악보 
-      - [4중주 악보 - ver1][Quartet_v1]
-      - [4중주 악보 - ver2][Quartet_v2]
-      - [4중주 악보 - ver3][Quartet_v3]
+### 해리포터 & 궁OST Medley  악보 
+- [4중주 악보 - ver1][Quartet_v1]
+- [4중주 악보 - ver2][Quartet_v2]
+- [4중주 악보 - ver3][Quartet_v3]
 <hr>
+
+[PlayList-22-01-1]: ./playlist/sm22_01_nutcracker_overture                      "Go PlayList-22-01-1"
+[PlayList-22-01-2]: ./playlist/sm22_01_radetzky_march                            "Go PlayList-22-01-2"
+[PlayList-22-01-3]: ./playlist/sm22_01_go_the_distance                           "Go PlayList-22-01-3"
+
 [Quartet_v1]: ./ensemble/quartet_v1_hedwigs_theme                        "Go Quartet_v1"
 [Quartet_v2]: ./ensemble/quartet_v2_harrypotter+palace_medley        "Go Quartet_v2"
 [Quartet_v3]: ./ensemble/quartet_v3_harrypotter+palace_final            "Go Quartet_v3"
