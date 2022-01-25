@@ -7,14 +7,14 @@
 </div>
 
 # 라라필 정기연주회 in 2022.07
-###  # Play List - Music Sheet
+###  ★ Play List - Music Sheet
 - 1st : [  The Nutcracker :  Miniature Overture, 호두까기 인형 중 서곡                          ][PlayList-22-01-1]
 - 2nd : [ Radetzky March, Johann Strauß I : 라데츠키 행진곡,  요한슈트라우스1세          ][PlayList-22-01-2]
 - 3th : [ Go The Distance : Disney's Hercules OST                                                     ][PlayList-22-01-3]
 <hr>
 
 # 라라필 이벤트 콘서트 in 2022.03
-### # 앙상블 4중주 연주자
+### ♣ 앙상블 4중주 연주자
 - Violin I  : [Ji-Young, Hong  ][Quartet_Vn1]
 - Violin II : [Jin-Soo, Kim       ][Quartet_Vn2]
 - Cello     : [Yoon-Ju            ][Quartet_Vc]
@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-### # 해리포터 & 궁OST Medley  악보
+### ★ 해리포터 & 궁OST Medley  악보
 - [4중주 악보 - ver1][Quartet_v1]
 - [4중주 악보 - ver2][Quartet_v2]
 - [4중주 악보 - ver3][Quartet_v3]
