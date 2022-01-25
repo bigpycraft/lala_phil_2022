@@ -17,7 +17,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td> 
       <a href="https://youtu.be/oEzeAli7J6o">HARRY POTTER OST hedwig's theme 현악4중주 커버</a>
     </td>
     <td>
@@ -27,9 +27,10 @@
 </table>
 
 ## 앙상블 : 라라필 이벤트 콘서트 in 2022.03 
-- 해리포터 & 궁OST Medley  : [4중주 악보 - ver1][Quartet_v1]
-- 해리포터 & 궁OST Medley  : [4중주 악보 - ver2][Quartet_v2]
-- 해리포터 & 궁OST Medley  : [4중주 악보 - ver3][Quartet_v3]
+해리포터 & 궁OST Medley  악보 
+- [4중주 악보 - ver1][Quartet_v1]
+- [4중주 악보 - ver2][Quartet_v2]
+- [4중주 악보 - ver3][Quartet_v3]
 <hr>
 
 [Quartet_v1]: ./ensemble/quartet_v1_hedwigs_theme                        "Go Quartet_v1"
