@@ -6,15 +6,15 @@
 <img src="./images/lala_philharmonic_logo.png" width='100px'>
 </div>
 
-## 정기연주회 in 2022.07
-Play List - Music Sheet
+# 정기연주회 in 2022.07
+###  Play List - Music Sheet
 - 1st : [  The Nutcracker :  Miniature Overture, 호두까기 인형 중 서곡                          ][PlayList-22-01-1]
 - 2nd : [ Radetzky March, Johann Strauß I : 라데츠키 행진곡,  요한슈트라우스1세          ][PlayList-22-01-2]
 - 3th : [ Go The Distance : Disney's Hercules OST                                                     ][PlayList-22-01-3]
 <hr>
 
-## 이벤트 콘서트 in 2022.03
-앙상블 4중주 연주자
+# 이벤트 콘서트 in 2022.03
+### 앙상블 4중주 연주자
 - Violin I  : [Ji-Young, Hong  ][Quartet_Vn1]
 - Violin II : [Jin-Soo, Kim       ][Quartet_Vn2]
 - Cello     : [Yoon-Ju            ][Quartet_Vc]
