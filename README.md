@@ -11,6 +11,7 @@
 - 1st : [  The Nutcracker :  Miniature Overture, 호두까기 인형 중 서곡                          ][PlayList-22-01-1]
 - 2nd : [ Radetzky March, Johann Strauß I : 라데츠키 행진곡,  요한슈트라우스1세          ][PlayList-22-01-2]
 - 3th : [ Go The Distance : Disney's Hercules OST                                                     ][PlayList-22-01-3]
+- 4th : [ Serenade for mixed ensemble, op.22 (Tempo di Valse)                                  ][PlayList-22-02-1]
 <hr>
 
 # 라라필 이벤트 콘서트 in 2022.03
@@ -48,6 +49,7 @@
 [PlayList-22-01-1]: ./playlist/sm22_01_nutcracker_overture                      "Go PlayList-22-01-1"
 [PlayList-22-01-2]: ./playlist/sm22_01_radetzky_march                            "Go PlayList-22-01-2"
 [PlayList-22-01-3]: ./playlist/sm22_01_go_the_distance                           "Go PlayList-22-01-3"
+[PlayList-22-02-1]: ./playlist/sm22_02_serenade                                     "Go PlayList-22-02-1"
 
 [Quartet_v1]: ./ensemble/quartet_v1_hedwigs_theme                        "Go Quartet_v1"
 [Quartet_v2]: ./ensemble/quartet_v2_harrypotter+palace_medley        "Go Quartet_v2"
